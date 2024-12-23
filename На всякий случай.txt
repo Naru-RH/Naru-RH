@@ -40,6 +40,14 @@ SOFTWARE.
     text-align: center;
 }
 
+<div>
+            <ul class="social22" class="right">
+                <li>
+                    <a href="https://youtube.com/" title="Ты полный лох">Используются софты: Shablon altanschool site.</a>
+                </li>
+            </ul>
+        </div>
+
 Основной код сайта:
 
 <!-- 
